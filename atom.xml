@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://junweilife.github.io/"/>
-  <updated>2018-09-16T13:48:30.947Z</updated>
+  <updated>2018-09-17T15:56:54.983Z</updated>
   <id>https://junweilife.github.io/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>會計的名詞解釋及意義</title>
+    <link href="https://junweilife.github.io/2018/09/17/%E6%9C%83%E8%A8%88%E7%9A%84%E5%90%8D%E8%A9%9E%E8%A7%A3%E9%87%8B%E5%8F%8A%E6%84%8F%E7%BE%A9/"/>
+    <id>https://junweilife.github.io/2018/09/17/會計的名詞解釋及意義/</id>
+    <published>2018-09-17T15:50:24.000Z</published>
+    <updated>2018-09-17T15:56:54.983Z</updated>
+    
+    <content type="html"><![CDATA[<p>會有「會合、總計」的意思，計有「劃計、小計」的意思，會計有「將劃計會合」的意思。<br>會計的英文是 Accounting，Accounting 是 Account 的分身，Account 有「帳戶、負責」的意思。</p><p>想像有一群朋友聚餐，每個人(帳戶)各自負責，分開解釋自己應負擔的金額，得到小計，這樣的過程是「分析」，加總後由其中一人去結帳；分析使我們更清楚帳目的細節，計算效率也更高，像是一台多核心計算機。</p><p>歸納以上的結論我們發現，會(合)計(分)是對帳戶責任的分析(治)，且處理帳目問題的步驟為「分、治、合」，這樣的方法能讓我們把龐大的帳目整理得有秩序。<br>有秩序的帳目{方便我們「辨認」各經濟體的責任，且依統一的會計規則「衡量」帳目金額，並作為經濟體交易的「紀錄」，使得各經濟體能有效「溝通」}，達到會計的目的，為各自的帳戶負責。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;會有「會合、總計」的意思，計有「劃計、小計」的意思，會計有「將劃計會合」的意思。&lt;br&gt;會計的英文是 Accounting，Accounting 是 Account 的分身，Account 有「帳戶、負責」的意思。&lt;/p&gt;
+&lt;p&gt;想像有一群朋友聚餐，每個人(帳戶)各自負責，
+      
+    
+    </summary>
+    
+      <category term="uncategorized" scheme="https://junweilife.github.io/categories/uncategorized/"/>
+    
+    
+      <category term="會計" scheme="https://junweilife.github.io/tags/%E6%9C%83%E8%A8%88/"/>
+    
+      <category term="divide and conquer" scheme="https://junweilife.github.io/tags/divide-and-conquer/"/>
+    
+  </entry>
+  
+  <entry>
     <title>DISQUS</title>
     <link href="https://junweilife.github.io/2018/09/16/DISQUS/"/>
     <id>https://junweilife.github.io/2018/09/16/DISQUS/</id>
     <published>2018-09-16T13:39:15.000Z</published>
-    <updated>2018-09-16T13:48:30.947Z</updated>
+    <updated>2018-09-16T15:14:28.534Z</updated>
     
     <summary type="html">
     
@@ -39,7 +67,7 @@
     <link href="https://junweilife.github.io/2018/09/13/hello-world/"/>
     <id>https://junweilife.github.io/2018/09/13/hello-world/</id>
     <published>2018-09-13T14:19:52.446Z</published>
-    <updated>2018-09-15T11:09:31.009Z</updated>
+    <updated>2018-09-16T15:14:28.539Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
