@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://junweilife.github.io/"/>
-  <updated>2018-09-17T15:56:54.983Z</updated>
+  <updated>2018-09-30T16:22:58.418Z</updated>
   <id>https://junweilife.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Deductive Reasoning and Logical Connectives</title>
+    <link href="https://junweilife.github.io/2018/09/27/Deductive-Reasoning-and-Logical-Connectives/"/>
+    <id>https://junweilife.github.io/2018/09/27/Deductive-Reasoning-and-Logical-Connectives/</id>
+    <published>2018-09-27T15:38:37.000Z</published>
+    <updated>2018-09-30T16:22:58.418Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="語意邏輯-Sentential-Logic"><a href="#語意邏輯-Sentential-Logic" class="headerlink" title="語意邏輯(Sentential Logic)"></a>語意邏輯(Sentential Logic)</h1><h2 id="演繹推理及邏輯運算-運算子連接運算元"><a href="#演繹推理及邏輯運算-運算子連接運算元" class="headerlink" title="演繹推理及邏輯運算(運算子連接運算元)"></a>演繹推理及邏輯運算(運算子連接運算元)</h2><h3 id="範例：演繹推理"><a href="#範例：演繹推理" class="headerlink" title="範例：演繹推理"></a>範例：演繹推理</h3><p>如果今天天氣晴朗，我們就去踏青。<br>今天是晴天。<br>因此，我們會去踏青。</p><h3 id="範例：使用代數符號表達語句"><a href="#範例：使用代數符號表達語句" class="headerlink" title="範例：使用代數符號表達語句"></a>範例：使用代數符號表達語句</h3><p>T 代表 今天天氣晴朗<br>G 代表 我們就去踏青</p><p>T ∨ ¬T.<br>T.<br>∴, G.</p><h3 id="邏輯運算子"><a href="#邏輯運算子" class="headerlink" title="邏輯運算子"></a>邏輯運算子</h3><p>符號　　意義<br>－－　　－－<br>∨ 　　　或<br>∧ 　　　且<br>¬ 　　　非</p><h2 id="從語句中分析邏輯形式"><a href="#從語句中分析邏輯形式" class="headerlink" title="從語句中分析邏輯形式"></a>從語句中分析邏輯形式</h2><p>俊威工作沒做好而被老闆開除。</p><p>J 代表 俊威工作沒做好<br>W 代表 俊威被老闆開除</p><p>J ∧ W.</p><h2 id="從邏輯形式還原-代換；代數轉換-語句"><a href="#從邏輯形式還原-代換；代數轉換-語句" class="headerlink" title="從邏輯形式還原(代換；代數轉換)語句"></a>從邏輯形式還原(代換；代數轉換)語句</h2><p>¬J ∧ ¬W</p><p>J 代表 俊威工作沒做好<br>W 代表 俊威被老闆開除</p><p>俊威工作有做好，沒被老闆開除。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;語意邏輯-Sentential-Logic&quot;&gt;&lt;a href=&quot;#語意邏輯-Sentential-Logic&quot; class=&quot;headerlink&quot; title=&quot;語意邏輯(Sentential Logic)&quot;&gt;&lt;/a&gt;語意邏輯(Sentential Logic)
+      
+    
+    </summary>
+    
+      <category term="proof" scheme="https://junweilife.github.io/categories/proof/"/>
+    
+    
+      <category term="proof" scheme="https://junweilife.github.io/tags/proof/"/>
+    
+      <category term="mathematics" scheme="https://junweilife.github.io/tags/mathematics/"/>
+    
+      <category term="critical thinking" scheme="https://junweilife.github.io/tags/critical-thinking/"/>
+    
+  </entry>
   
   <entry>
     <title>會計的名詞解釋及意義</title>
